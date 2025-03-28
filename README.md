@@ -1,1 +1,0 @@
-This repositry contains the source code when I'm learning "Machine learning" and play with it.
